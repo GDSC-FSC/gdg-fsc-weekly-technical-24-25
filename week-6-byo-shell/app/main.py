@@ -1,20 +1,22 @@
 import os
 
-def shell_type(evaled_command:str) -> None:
-    if evaled_command in ["echo","exit","type"]:
+
+def shell_type(evaled_command: str) -> None:
+    if evaled_command in ["echo", "exit", "type"]:
         print(f"{evaled_command} is a shell builtin")
         return
     paths = os.getenv("PATH").split(":")
     for path in paths:
-            if os.path.exists(f"{path}/{evaled_command}"):
-                print(f"{evaled_command} is {path}/{evaled_command}")
-                return
+        if os.path.exists(f"{path}/{evaled_command}"):
+            print(f"{evaled_command} is {path}/{evaled_command}")
+            return
     print(f"{evaled_command} not found")
 
-def shell_cd(path:str) -> None:
+
+def shell_cd(path: str) -> None:
     home_dir = os.getenv("HOME")
     if home_dir:
-       path = path.replace("~",home_dir)
+        path = path.replace("~", home_dir)
     if os.path.isdir(path):
         os.chdir(path)
     elif os.path.isfile(path):
@@ -31,9 +33,9 @@ def main():
         if command == "exit":
             break
         elif command == "echo":
-            print(' '.join(command_array[1:]))
+            print(" ".join(command_array[1:]))
         elif command == "type":
-            shell_type(evaled_command=str(command_array[1])) 
+            shell_type(evaled_command=str(command_array[1]))
         elif command == "pwd":
             print(os.getcwd())
         elif command == "cd":

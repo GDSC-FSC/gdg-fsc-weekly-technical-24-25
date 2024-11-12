@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\users\airwo\documents\github\gdg-fsc-weekly-technical-24-25\week-5-byo-git\target\debug\build\typenum-5b2bd827b5778c7e\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\users\airwo\documents\github\gdg-fsc-weekly-technical-24-25\week-5-byo-git\target\debug\build\typenum-5b2bd827b5778c7e\out\op.rs

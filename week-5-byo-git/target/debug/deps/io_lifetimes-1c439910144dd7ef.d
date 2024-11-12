@@ -1,0 +1,10 @@
+C:\users\airwo\documents\github\gdg-fsc-weekly-technical-24-25\week-5-byo-git\target\debug\deps\libio_lifetimes-1c439910144dd7ef.rmeta: C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\lib.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\portability.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\traits.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\example_ffi.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\raw.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\views.rs
+
+C:\users\airwo\documents\github\gdg-fsc-weekly-technical-24-25\week-5-byo-git\target\debug\deps\io_lifetimes-1c439910144dd7ef.d: C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\lib.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\portability.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\traits.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\example_ffi.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\raw.rs C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\views.rs
+
+C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\lib.rs:
+C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\portability.rs:
+C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\traits.rs:
+C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\example_ffi.rs:
+C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\raw.rs:
+C:\Users\airwo\.cargo\registry\src\index.crates.io-6f17d22bba15001f\io-lifetimes-1.0.3\src\views.rs:
